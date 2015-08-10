@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/khairulhasanmd/Simon/master/icon.png
+<a rel="icon" href="https://github.com/khairulhasanmd/Simon"><img alt="Simon" style="border-width:0" src="https://raw.githubusercontent.com/khairulhasanmd/Simon/master/icon.png" /></a>
 
 Simon
 ========================================
