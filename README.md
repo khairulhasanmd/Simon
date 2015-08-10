@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/khairulhasanmd/Simon/master/icon.png
 
 Simon
 ========================================
